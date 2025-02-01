@@ -8,7 +8,7 @@
   Library by Technoblogy
 
   Connections:
-  BME --- MCU
+  BME --- MCU 
   VCC to 3v3
   GND to GND
   SDA to A4
